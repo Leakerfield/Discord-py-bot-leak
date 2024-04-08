@@ -3,9 +3,10 @@
 [discord server](https://discord.gg/9qbaWTJr)
 [![nextcord](https://img.shields.io/badge/nextcord-red)](https://github.com/nextcord/nextcord)
 
-You can invite the bot [here](https://discord.com/oauth2/authorize?client_id=1225858570642522252&permissions=8&scope=bot+applications.commands).
+## BOT INVITE
 
-[![Discord server](https://discordapp.com/api/guilds/1169637031413022860/embed.png?style=banner3)](https://discord.gg/9qbaWTJr)
+
+You can invite the bot [here](https://discord.com/oauth2/authorize?client_id=1225858570642522252&permissions=8&scope=bot+applications.commands).
 
 ## Suggestions, questions and bug reports
 
