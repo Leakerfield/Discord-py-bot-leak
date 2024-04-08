@@ -1,10 +1,7 @@
-# BallsDex Discord Bot
+# GB Discord Bot
 
 [![Discord server](https://discordapp.com/api/guilds/1169637031413022860/embed.png)](https://discord.gg/9qbaWTJr)
 [![nextcord](https://img.shields.io/badge/discord-py-blue.svg)](https://github.com/nextcord/nextcord)
-[![Black coding style](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/ambv/black)
-
-BallsDex is a bot for collecting countryballs on Discord and exchange them with your friends!
 
 You can invite the bot [here](https://discord.com/oauth2/authorize?client_id=1225858570642522252&permissions=8&scope=bot+applications.commands).
 
