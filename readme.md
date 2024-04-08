@@ -1,7 +1,7 @@
 # GB Discord Bot
 
 [![Discord server](https://discordapp.com/api/guilds/1169637031413022860/embed.png)](https://discord.gg/9qbaWTJr)
-![Static Badge][(https://img.shields.io/badge/nextcord-red)](https://github.com/nextcord/nextcord)
+[![Static Badge](https://img.shields.io/badge/nextcord-red)](https://github.com/nextcord/nextcord)
 
 You can invite the bot [here](https://discord.com/oauth2/authorize?client_id=1225858570642522252&permissions=8&scope=bot+applications.commands).
 
